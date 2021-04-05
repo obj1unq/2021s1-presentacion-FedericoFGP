@@ -1,7 +1,7 @@
 # Presentación
 
 ## Estudiante: _Plastina Federico_
-![Imagen](20200405_120216.jpg)
+![Imagen](yo.jpg)
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
