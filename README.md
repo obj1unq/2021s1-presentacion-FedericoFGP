@@ -2,7 +2,8 @@
 
 ## Estudiante: _Plastina Federico_
 ![Imagen](yo.jpg)
-Soy Federico y me dedico a estudiar, resolver problemas de Infra y hago altos asados (100% real no fake 1 link). 
+
+Soy Federico, me dedico a estudiar, resolver problemas de Infra y hago altos asados (100% real no fake 1 link). 
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
